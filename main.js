@@ -56,5 +56,4 @@ console.log(Math.ceil(4.11111)); //5
 
 const cat = 'kitty';
 console.log(cat.length); //5
-
 //******* END MATH *********/
